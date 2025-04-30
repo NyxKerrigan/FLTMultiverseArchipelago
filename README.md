@@ -1,3 +1,7 @@
+I'm very new at Github so newest version of APworld and yaml will always be found in the releases tab
+
+I might figure out how to reupload files to the main page
+
 https://docs.google.com/document/d/1ALBZdVhRsqB-TxfQDUJJzajV7tiM27nTXmnmT8STtzM/edit?usp=sharing
 This with formatting and better updated
 
