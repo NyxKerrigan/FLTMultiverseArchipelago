@@ -1,3 +1,6 @@
+https://docs.google.com/document/d/1ALBZdVhRsqB-TxfQDUJJzajV7tiM27nTXmnmT8STtzM/edit?usp=sharing
+This with formatting and better updated
+
 This is the Doc to go along with the Manual for FTL:multiverse I have made
 Mod list: 
 
@@ -29,34 +32,37 @@ All Augments have what you need to type into the client you need to get them
 All internal upgrades have there Aug Counterpart* (Aether tech Augments don’t)
 I will now go through the Progressive AUGs
 	Progressive AUG SLUG_GEL 
-SLUG_GEL
+	SLUG_GEL
 	HEKTAR_GEL
 	PLEASURE_GEL
 Progressive AUG CREW_STIMS
 	CREW_STIMS
-SUPER_CREW_STIMS
-SUZERAIN_CREW_STIMS
-LOCKED_ELITE_STIMS (note you might not want to take this if not using mantis)
+	SUPER_CREW_STIMS
+	SUZERAIN_CREW_STIMS
+	LOCKED_ELITE_STIMS (note you might not want to take this if not using mantis)
 Progressive AUG STORE_BEACON_SUPER (super OP)
-STORE_BEACON_SYLVAN 
+	STORE_BEACON_SYLVAN 
  	GATLING_MAKER
-STORE_BEACON_SUPER
+	STORE_BEACON_SUPER
 Progressive AUG ANCIENT_SHIELD
-ANCIENT_SHIELD
-ROYAL_SHIELD
+	ANCIENT_SHIELD
+	ROYAL_SHIELD
 Progressive AUG WEAPON_PREIGNITE
-WEAPON_PREIGNITE
-ANCIENT_PREIGNITE
+	WEAPON_PREIGNITE
+	ANCIENT_PREIGNITE
+Progressive AUG SYLVAN_SHIELD
+	SYLVAN_SHIELD
+	SYLVAN_SHIELD_CONTIUNITY
 
 
 
 If you want to use a New save I recommend Setting the following Meta variables
 	METAVAR prof_finalsector: 2
-METAVAR prof_renegades_killed: 5
-METAVAR prof_opened_nexus: 1 (this make Obyn or Anurak not needed for Nexus)
-METAVAR chaos_mode_unlock: 1 (this is so you can grab the gnome ones CHOAS MODE item is grabbed)
-METAVAR magical_hat: 1 (allows you to grab the hat)
-METAVAR prof_judges_met: 1
+	METAVAR prof_renegades_killed: 5
+	METAVAR prof_opened_nexus: 1 (this make Obyn or Anurak not needed for Nexus)
+	METAVAR chaos_mode_unlock: 1 (this is so you can grab the gnome ones CHOAS MODE item is grabbed)
+	METAVAR magical_hat: 1 (allows you to grab the hat)
+	METAVAR prof_judges_met: 1
 After loading into the game for the first time you can set these and then restart your run to have all of them activate
 
 
